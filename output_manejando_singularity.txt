@@ -1,0 +1,60 @@
+Hostname en el sistema host:
+LAPTOP-HMH8MQN7
+Hostname en el contenedor Singularity:
+Singularity 1.00 (commit: 2ebc2f3f2059b96885416167363bde2e27ece106)
+Running under Python 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+pygame 2.1.2 (SDL 2.0.20, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+The error-log configured as /root/.local/share/singularity/log/error.log (lazily created when something is logged)
+Contenido de /etc/os-release en el sistema host:
+PRETTY_NAME="Ubuntu 22.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="22.04"
+VERSION="22.04.1 LTS (Jammy Jellyfish)"
+VERSION_CODENAME=jammy
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=jammy
+Contenido de /etc/os-release en el contenedor Singularity:
+Singularity 1.00 (commit: 2ebc2f3f2059b96885416167363bde2e27ece106)
+Running under Python 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+pygame 2.1.2 (SDL 2.0.20, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+The error-log configured as /root/.local/share/singularity/log/error.log (lazily created when something is logged)
+Directorio actual en el sistema host:
+/root/lab6-singularity
+Directorio actual en el contenedor Singularity:
+Singularity 1.00 (commit: 2ebc2f3f2059b96885416167363bde2e27ece106)
+Running under Python 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+pygame 2.1.2 (SDL 2.0.20, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+The error-log configured as /root/.local/share/singularity/log/error.log (lazily created when something is logged)
+Contenido de /home en el sistema host:
+total 4
+drwxr-x--- 3 ghiz_tahiri ghiz_tahiri 4096 Oct 24  2022 ghiz_tahiri
+Contenido de /home en el contenedor Singularity:
+Singularity 1.00 (commit: 2ebc2f3f2059b96885416167363bde2e27ece106)
+Running under Python 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+pygame 2.1.2 (SDL 2.0.20, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+The error-log configured as /root/.local/share/singularity/log/error.log (lazily created when something is logged)
+Versión de Python en el sistema host:
+Python 3.10.4
+Versión de Python en el contenedor Singularity:
+Singularity 1.00 (commit: 2ebc2f3f2059b96885416167363bde2e27ece106)
+Running under Python 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+pygame 2.1.2 (SDL 2.0.20, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+The error-log configured as /root/.local/share/singularity/log/error.log (lazily created when something is logged)
+1.00
+Ejecutando pi.ipynb en el sistema host:
+Ejecutando pi.ipynb en el contenedor Singularity:
+Singularity 1.00 (commit: 2ebc2f3f2059b96885416167363bde2e27ece106)
+Running under Python 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+pygame 2.1.2 (SDL 2.0.20, Python 3.10.4)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+The error-log configured as /root/.local/share/singularity/log/error.log (lazily created when something is logged)
